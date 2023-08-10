@@ -1,0 +1,1 @@
+# Para evitar confitos de versões cada usuario pode ter sua propria branche para recurso ou correção de bug, fazer commits frequentes e acompanhar outras interações e reverter possiveis conflitos. Podemos também realizar testes e tocar cuidado ao fazer merge
